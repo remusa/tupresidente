@@ -1,6 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="colorPrimary">#3F51B5</color>
-    <color name="colorPrimaryDark">#303F9F</color>
-    <color name="colorAccent">#FF4081</color>
+    <color name="colorPrimary">#f44336</color>
+    <color name="colorPrimaryDark">#ff5252</color>
+    <color name="colorAccent">#FFA726</color>
+
+    <!-- Background color for app -->
+    <!--<color name="tan_background">#45380c</color>-->
+
+    <color name="colorCategoryText">@android:color/white</color>
+
+    <color name="tab_background_selected">#f74a00</color>
+    <color name="tab_background_unselected">#f74a00</color>
+
+    <!-- Background color for the categories -->
+    <color name="category_all_presidents">#379237</color>
+    <color name="category_pena">#ff1744</color>
+    <color name="category_test">#FD8E09</color>
+    <color name="category_colors">#8800A0</color>
+    <color name="category_phrases">#16AFCA</color>
 </resources>

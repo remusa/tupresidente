@@ -3,7 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/TuPresidenteSoundboard.iml" filepath="$PROJECT_DIR$/TuPresidenteSoundboard.iml" />
+      <module fileurl="file:///run/media/rms/Data/Projects/AndroidProjects/Own/TuPresidenteSoundboard/TuPresidenteSoundboard.iml" filepath="/run/media/rms/Data/Projects/AndroidProjects/Own/TuPresidenteSoundboard/TuPresidenteSoundboard.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file:///run/media/rms/Data/Projects/AndroidProjects/Own/TuPresidenteSoundboard/app/app.iml" filepath="/run/media/rms/Data/Projects/AndroidProjects/Own/TuPresidenteSoundboard/app/app.iml" />
     </modules>
   </component>
 </project>

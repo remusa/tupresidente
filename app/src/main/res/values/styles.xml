@@ -1,11 +1,30 @@
 <resources>
 
     <!-- Base application theme. -->
-    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
         <!-- Customize your theme here. -->
         <item name="colorPrimary">@color/colorPrimary</item>
         <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
         <item name="colorAccent">@color/colorAccent</item>
+        <item name="android:actionBarStyle">@style/AppBarStyle</item>
+        <!--<item name="actionBarStyle">@style/AppBarStyle</item>-->
+        <item name="android:windowContentOverlay">@null</item>
+    </style>
+
+    <style name="SplashTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="android:windowBackground">@drawable/splash_background</item>
+    </style>
+
+    <!-- App bar style -->
+    <style name="AppBarStyle" parent="Widget.AppCompat.Light.ActionBar.Solid.Inverse">
+        <!-- Remove the shadow below the app bar -->
+        <item name="elevation">0dp</item>
+        <!--<item name="android:background">@color/colorCategoryText</item>- -->
+    </style>
+
+    <!-- Text appearance style for a category tab -->
+    <style name="CategoryTabTextAppearance" parent="TextAppearance.Design.Tab">
+        <item name="android:textColor">@color/colorCategoryText</item>
     </style>
 
 </resources>

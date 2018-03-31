@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "977634759688",
+    "firebase_url": "https://android-apps-b7277.firebaseio.com",
+    "project_id": "android-apps-b7277",
+    "storage_bucket": "android-apps-b7277.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:977634759688:android:3aef3ec354af94db",
+        "android_client_info": {
+          "package_name": "com.rdevlab.tupresidentesoundboard"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "977634759688-tgq3ebefrgbilo944oakhm8qdtsj9gtl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rdevlab.tupresidentesoundboard",
+            "certificate_hash": "5d8e607aba00435d3512c40ac836ec3d80f761f4"
+          }
+        },
+        {
+          "client_id": "977634759688-utun4qop4j2md80r1mhofj21s3osb8u2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1IKR2lJ_kou5ot9725RngeUfqiYHpeWQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "977634759688-utun4qop4j2md80r1mhofj21s3osb8u2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
