@@ -9,7 +9,7 @@ public class Phrase {
 
     private String mPhraseName;
     private int mAudioResourceId;
-    private int mImageResourceId = -1;
+    private int mImageResourceId;
 
     public Phrase(String phraseName, int audioResourceId, int imageResourceId) {
         mPhraseName = phraseName;
