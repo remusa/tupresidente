@@ -3,7 +3,7 @@ package com.rdevlab.tupresidentesoundboard.fragments;
 import android.content.Context;
 import android.support.v4.app.Fragment;
 import android.support.v4.app.FragmentManager;
-import android.support.v4.app.FragmentPagerAdapter;
+import android.support.v4.app.FragmentStatePagerAdapter;
 
 import static com.rdevlab.tupresidentesoundboard.MainActivity.adCounter;
 
@@ -13,7 +13,7 @@ import static com.rdevlab.tupresidentesoundboard.MainActivity.adCounter;
  * @date 25/02/2018
  */
 
-public class CategoryAdapter extends FragmentPagerAdapter {
+public class CategoryAdapter extends FragmentStatePagerAdapter {
 
     private Context mContext;
 
